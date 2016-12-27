@@ -1,0 +1,10 @@
+/node_modules
+.DS_Store*
+/.idea
+/bin/hubot
+/bin/philbot
+/bin/brybot
+/.cocomoignore
+*.log
+*.log.offset
+.hubot_history
